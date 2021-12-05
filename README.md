@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @wagabooga
+- 👋 Hi, I’m @wagabooga, but feel free to call me Matt
 - 👀 I’m interested in ... Coding!! Every day I learn more and more and am excited to grow my skillset
 - 🌱 I’m currently learning ... Full stack web developement
-- 💞️ I’m looking to collaborate on ... Future projects with a team (after finished with my school)
+- 💞️ I’m looking to collaborate on ... My Tekken ELO bot
 - 📫 How to reach me ... You can reach me at @wagabooga on most websites
 
 <!---
