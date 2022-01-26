@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @wagabooga, but feel free to call me Matt
-- 👀 I’m interested in ... Coding!! Every day I learn more and more and am excited to grow my skillset
-- 🌱 I’m currently learning ... Full stack web developement
-- 💞️ I’m looking to collaborate on ... My Tekken ELO bot
-- 📫 How to reach me ... You can reach me at @wagabooga on most websites
+<div align="center">
+	<img width=200px height=200px align="left" src="https://c.tenor.com/ciXVEY9J2BUAAAAi/sailor-moon-usagi.gif" />
+	<div  >
+	[![Twitter Badge](https://img.shields.io/badge/Twitter-%40wagabooga-%231DA1F2)](https://twitter.com/wagabooga) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Matthew%20Hu-%230072b1)](https://www.linkedin.com/in/wagabooga/) [![Instagram Badge](https://img.shields.io/badge/Portfolio-matthewhu.com-important)](https://matthewhu.com)
+	</div>
+**Welcome to my GitHub! Here you can find the code for all my projects.  Feel free to check out my personal website for a quick portfolio.**
+</div>
 
-<!---
-wagabooga/wagabooga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+
+
+  <image align="center" src="https://c.tenor.com/CDYBDRhL3SIAAAAC/anime-gif-anime.gif"></image>
