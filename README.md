@@ -3,14 +3,7 @@
 		<p align="center">
 			<p>Welcome to my GitHub</p>
 		</p>
+  <image  width=400px src="https://c.tenor.com/CDYBDRhL3SIAAAAC/anime-gif-anime.gif"></image>
 </div>
-
-
-# Stats
-| | | 
-| :--: | :--: |
-| [![Matthew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wagabooga&show_icons=true&theme=tokyonight&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wagabooga)](https://github.com/anuraghazra/github-readme-stats)
-
-  <image align="right" width=400px src="https://c.tenor.com/CDYBDRhL3SIAAAAC/anime-gif-anime.gif"></image>
 
 		
